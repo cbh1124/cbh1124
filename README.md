@@ -30,7 +30,7 @@
   <a href="https://github.com/cbh1124/Ezen_newrent">렌트카 프로그램 (Java Fx) </a><br>
 </p>
 
-<h2 align="center"> :star: operation video :star:</h2>
+<h2 align="center"> :star: 프로젝트 작동 영상 :star:</h2>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=15b3wTSUqrw">스마트 홈 작동영상</a><br>
   <a href="https://www.youtube.com/watch?v=wMLMbODqCtU&feature=youtu.be">유기동물, 분양동물 커뮤니티 사이트(ZooZoo) 작동영상 </a><br>
