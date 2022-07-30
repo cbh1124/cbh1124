@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=최병호&fontSize=70&animation=twinkling)
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align = "center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcbh1124&count_bg=%233DB7C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
 
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -36,3 +39,5 @@
   <a href="https://www.youtube.com/watch?v=wMLMbODqCtU&feature=youtu.be">유기동물, 분양동물 커뮤니티 사이트(ZooZoo) 작동영상 </a><br>
   <a href="https://www.youtube.com/watch?v=KWMP7NGd5yE">졸업작품 스마트 팜 작동영상</a><br>
 </p>
+
+
